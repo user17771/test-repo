@@ -1,2 +1,3 @@
 This is the first commit in master
 2) Now here it comes the second commit
+3) Now this is the THIRD commit
