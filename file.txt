@@ -1,1 +1,2 @@
 This is the first commit in master
+2) Now here it comes the second commit
